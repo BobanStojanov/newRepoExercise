@@ -1,0 +1,98 @@
+body{
+    background-image: url("img/background.jpg");
+}
+
+#crush{
+    position: relative;
+    left: 100px;
+    top: 100px;
+}
+
+#scouter{
+    position: relative;
+    bottom: 225px;
+    left: 550px;
+    
+}
+
+#starfighter{
+    position: relative;
+    bottom: 550px;
+    left: 1000px;
+    
+}
+
+#div1{
+    width: 300px;
+    height: 400px;
+    padding: 50px;
+   
+  
+}
+
+img{
+    width: 288px;
+    height: 300px;
+}
+
+button{
+    display: block;
+    width: 300px;
+    position: relative;
+
+}
+#div2{
+    position: relative;
+    left: 800px;
+    bottom: 400px;
+    width: 300px;
+    height: 400px;
+    padding: 50px;
+    
+    
+}
+
+button:hover{     
+    color: green;
+    display: block;
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden; 
+
+}
+
+#div3{
+    position: relative;
+    top: 600px;
+    left: 400px;
+    width: 300px;
+    height: 400px;
+    padding: 50px;
+    ;
+    
+}
+
+
+#div4{
+    position: relative;
+    top: 1200px;
+    left: 200px;
+    width: 300px;
+    height: 400px;
+    padding: 50px;
+   
+    
+}
+
+#div5{
+    position: relative;
+    top: 1400px;
+    left: 600px;
+    width: 300px;
+    height: 400px;
+    padding: 50px;
+    
+    
+}
